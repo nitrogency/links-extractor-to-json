@@ -1,15 +1,3 @@
-<div align="center">
-  <a href="https://github.com/thiiagoms/links-extractor">
-      <img src="./assets/img/clamp.png" alt="Logo" width="80" height="80">
-  </a>
-  <h3>Extract links from urls :clamp: </h3>
-  <p float="left">
-    <img
-      src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
-      alt="Python"
-    />
-  </p>
-</div>
 Fork that allows for the extraction of links from web pages to a .JSON file. 
 
 ## Includes the following additions:
