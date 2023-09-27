@@ -94,7 +94,7 @@ else:
 
 ```
 
-And you should find this output in the `data.json` file:
+And you should find output like this in the `data.json` file:
 ```json
 [
     {
@@ -104,40 +104,6 @@ And you should find this output in the `data.json` file:
             "docs.github.com",
             "skills.github.com",
             "github.blog",
-            "education.github.com",
-            "resources.github.com",
-            "resources.github.com",
-            "resources.github.com",
-            "resources.github.com",
-            "partner.github.com",
-            "docs.github.com",
-            "docs.github.com",
-            "githubuniverse.com",
-            "resources.github.com",
-            "resources.github.com",
-            "resources.github.com",
-            "resources.github.com",
-            "docs.github.com",
-            "partner.github.com",
-            "www.electronjs.org",
-            "desktop.github.com",
-            "docs.github.com",
-            "github.community",
-            "services.github.com",
-            "skills.github.com",
-            "www.githubstatus.com",
-            "support.github.com?tags=dotcom-footer",
-            "github.blog",
-            "socialimpact.github.com",
-            "shop.github.com",
-            "x.com",
-            "www.facebook.com",
-            "www.linkedin.com",
-            "www.youtube.com",
-            "www.twitch.tv",
-            "www.tiktok.com",
-            "docs.github.com",
-            "docs.github.com"
         ]
     },
     {
@@ -145,17 +111,7 @@ And you should find this output in the `data.json` file:
         "domain": "http://google.com",
         "extracted_links": [
             "www.google.com",
-            "maps.google.lt",
             "play.google.com",
-            "www.youtube.com",
-            "news.google.com",
-            "mail.google.com",
-            "drive.google.com",
-            "www.google.lt",
-            "www.google.lt",
-            "accounts.google.com",
-            "www.google.lt",
-            "www.google.com"
         ]
     }
 ]
