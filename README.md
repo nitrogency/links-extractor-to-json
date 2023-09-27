@@ -10,7 +10,10 @@
     />
   </p>
 </div>
-Library that allows for the extraction of links from web pages
+Fork that allows for the extraction of links from web pages to a .JSON file. Also includes the following additions:
+- Extracted links are checked if they end correctly (.com, .net, etc.). This means no links leading to files.
+- Links which match the site that's being scanned don't get included.
+- Each validated link is assigned an ID and written to JSON.
 
 - [Dependencies :heavy_plus_sign:](#dependencies)
 - [Install :package:](#install)
