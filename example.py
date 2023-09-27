@@ -39,8 +39,6 @@ for url, extracted_links in links.items():
         entry = {
             'id': str(uuid.uuid4()),
             'domain': url,
-            'visited': True,
-            'status': 0,
             'extracted_links': extracted_links_list
         }
         output_data.append(entry)
