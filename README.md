@@ -24,10 +24,10 @@ Fork that allows for the extraction of links from web pages to a .JSON file.
 $ git clone https://github.com/nitrogency/links-extractor-to-json
 ```
 
-02 -) Go to `links-extractor` directory:
+02 -) Go to `links-extractor-to-json` directory:
 ```shell
-$ cd links-extractor
-links-extractor $
+$ cd links-extractor-to-json
+links-extractor-to-json $
 ```
 
 ## Run
